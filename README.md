@@ -16,7 +16,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwonDooHyeon&count_bg=%2387A5FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 <br><br>
 
-## 📋 Once I've used 📋	
+## ✔ Once I've used 	
 <div style="display:flex; flex-direction:row;">
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
@@ -36,7 +36,7 @@
 </div>
 <br>
 	
-## 💻 Tools 💻	
+## 💻 Tools 
 <div style="display:flex; flex-direction:row;">
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
@@ -45,17 +45,17 @@
 </div>
 <br>
 	
-## 📞 SNS & Portfolio 📞	
+## 📞 Contact 	
 <div style="display:flex; flex-direction:row;">
 	<a href="mailto:secure3141@naver.com">
-        <img src="https://img.shields.io/badge/Naver-6DB33F?style=for-the-badge&logo=Naver&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Naver%20MAIL-6DB33F?style=for-the-badge&logo=Naver&logoColor=white"> 
     	</a>
 	<a href="https://instagram.com/doohyeon97/">	
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
   	</a>
 </div><br>
 		
-## Resume & Portfolio
+## 📋 Resume & PortFolio
 <div style="display:flex; flex-direction:row;">	
 	<a href="http://secure3141.cafe24.com/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" />
