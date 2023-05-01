@@ -47,6 +47,16 @@
 	
 ## 📞 SNS & Portfolio 📞	
 <div style="display:flex; flex-direction:row;">
+	<a href="mailto:secure3141@naver.com">
+        <img src="https://img.shields.io/badge/Naver-6DB33F?style=for-the-badge&logo=Naver&logoColor=white"> 
+    	</a>
+	<a href="https://instagram.com/doohyeon97/">	
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+  	</a>
+</div><br>
+		
+## Resume & Portfolio
+<div style="display:flex; flex-direction:row;">	
 	<a href="http://secure3141.cafe24.com/">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Micro.blog&logoColor=white" />
 	</a>
@@ -59,12 +69,9 @@
 	<a href="https://github.com/GwonDooHyeon">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 	</a>
-	<a href="mailto:secure3141@naver.com">
-        <img src="https://img.shields.io/badge/Naver-6DB33F?style=for-the-badge&logo=Naver&logoColor=white"> 
-    	</a>
-	<a href="https://instagram.com/doohyeon97/">	
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-  	</a>
+
+	
+</div>	
 </div>
 
 
