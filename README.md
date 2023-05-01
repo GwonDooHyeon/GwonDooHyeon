@@ -14,7 +14,7 @@
 <div align=left>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGwonDooHyeon&count_bg=%2387A5FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<br><br>
 
 ## 📋 Once I've used 📋	
 <div style="display:flex; flex-direction:row;">
@@ -36,7 +36,7 @@
 </div>
 <br>
 	
-## 🛠 Tools 🛠	
+## 💻 Tools 💻	
 <div style="display:flex; flex-direction:row;">
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
@@ -59,6 +59,9 @@
 	<a href="https://github.com/GwonDooHyeon">
 		<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 	</a>
+	<a href="mailto:secure3141@naver.com">
+        <img src="https://img.shields.io/badge/Naver-6DB33F?style=for-the-badge&logo=Naver&logoColor=white"> 
+    </a>
 </div>
 
 
