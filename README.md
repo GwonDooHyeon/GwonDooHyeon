@@ -7,8 +7,7 @@
 </div>	
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Doo's%20GitHub!👋%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=150) -->
-
-
+---
 
 
 										      												       
@@ -52,7 +51,7 @@
 </div>
 <br>
 <div align=left>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>📞 SNS & Portfolio 📞</p>
 </div>
 <div align=left>
 	<a href="http://secure3141.cafe24.com/">
