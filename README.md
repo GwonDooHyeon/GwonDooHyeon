@@ -61,7 +61,10 @@
 	</a>
 	<a href="mailto:secure3141@naver.com">
         <img src="https://img.shields.io/badge/Naver-6DB33F?style=for-the-badge&logo=Naver&logoColor=white"> 
-    </a>
+    	</a>
+	<a href="https://instagram.com/doohyeon97/">	
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+  	</a>
 </div>
 
 
