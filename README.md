@@ -28,6 +28,7 @@
 	<img src="https://img.shields.io/badge/Python-003545?style=for-the-badge&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Fluentd&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mariadb-1F305F?style=for-the-badge&logo=Mariadb&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
