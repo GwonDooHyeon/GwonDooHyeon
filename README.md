@@ -43,6 +43,8 @@
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Intellij-003545?style=for-the-badge&logo=IntellijIDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/AndroidStudio-#3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=green" />
+	
 </div>
 <br>
 	
